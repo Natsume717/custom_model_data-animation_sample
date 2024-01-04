@@ -1,0 +1,2 @@
+# custom_model_data-animation_sample
+カスタムモデルデータのアニメーションサンプルになります。
