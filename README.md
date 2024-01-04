@@ -5,4 +5,4 @@
 
 ```/give @s minecraft:carrot_on_a_stick{CustomModelData:5}```で白背景に1という赤文字のデザインであるニンジン付きの棒を手に入れられます。
 
-また```/give @s minecraft:carrot_on_a_stick{CustomModelData:7}```でアニメーション付きのニンジン付きの棒を手に入れることが可能です。
+また```/give @s minecraft:carrot_on_a_stick{CustomModelData:7}```でアニメーション付きのデザインであるニンジン付きの棒を手に入れることが可能です。
